@@ -16,8 +16,8 @@ I CAN DO THIS ALL DAY 😎🏃
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logoColor=white&logo=firebase" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-pill&logo=postgresql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logoColor=white&logo=firebase" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white" />
   <br>
   <img alt="Algorithm" src="https://img.shields.io/badge/-Algorithm-777BB4?style=flat-square&logo=Algorithm&logoColor=white" />
