@@ -1,20 +1,36 @@
-
 <!--
-**seohyeonKK/seohyeonKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+노란색
 -->
 
-[![seohyeonKK's github stats](https://github-readme-stats.vercel.app/api?username=seohyeonKK&count_private=true&show_icons=true&theme=radical&hide_border=false&include_all_commits=1)](https://github.com/seohyeonKK/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFFF00&height=170&section=header&text=%20Seohyeon&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeonKK&layout=compact&hide_border=false&title_color=D83B7D&icon_color=E9CB45&text_color=FFFFFF&bg_color=141321)](https://github.com/seohyeonKK/github-readme-stats)
+<br>
 
+<p align="center">
+SeoHyeon
+</p>
+
+<br>
+
+<h3 align="center"> 🍒 Interest 🍒 </h3>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logoColor=white&logo=firebase" />
+  <img alt="Algorithm" src="https://img.shields.io/badge/-Algorithm-777BB4?style=flat-square&logo=Algorithm&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-pill&logo=postgresql&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<br>
+
+<h3 align="center"> 📬 Contacts 📬 </h3>
+<p align="center">
+  <a href="mailto:sts05158@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sts05158@gmail.com"/></a>
+</p>
+
+<!--
+[![reyeon1209's github stats](https://github-readme-stats.vercel.app/api?username=reyeon1209&count_private=true&show_icons=true&theme=buefy&hide_border=true&include_all_commits=1)](https://github.com/reyeon1209/github-readme-stats)  
+-->
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=FFFF00&height=150&section=footer)
