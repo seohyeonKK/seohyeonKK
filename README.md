@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-SeoHyeon
+I CAN DO THIS ALL DAY
 </p>
 
 <br>
