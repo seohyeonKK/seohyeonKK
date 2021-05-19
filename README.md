@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-I CAN DO THIS ALL DAY 😎🏃
+I CAN DO THIS ALL DAY 😎
 </p>
 
 <br>
