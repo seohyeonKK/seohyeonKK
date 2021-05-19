@@ -2,7 +2,7 @@
 노란색
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=#CFCFCF&height=170&section=header&text=%20Seohyeon&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=CFCFCF&height=170&section=header&text=%20Seohyeon&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
 
 <br>
 
