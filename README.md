@@ -33,29 +33,7 @@
 <p align="center">
   <a href="mailto:sts05158@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sts05158@gmail.com"/></a>
 </p>
-                                                                    ,,
-                                                                   /  ,
-                                                                  /   /
-                                                                 /   /
-                                                                /   /
- __________________________                                    /   /
-⎢                         ⎥                                   /   /
-⎢            Hi           ⎥                                  /   /
-⎢____    _________________⎥                                 /   /
-      \/    ,      ,,                                      /   /
-           /@\____/@ \                                ____/   /
-          /           \                         _____/        /__
-    /" \ / •    •      \                     __/             /  @@"\
-    \    @@  ㅅ  @@     /___             ___/                /    _/
-   /" \   \                 \__________/                    |__/ "\
-   \   \                                                   /      /
-    \    \  __                                                  _/
-     \                                                       __/
-       \_                                             ______/
-          \ ___                                    __/
-                \__                             __/
-                    \_____                _____/
-                          \______________/
+
 
 <!--
 [![reyeon1209's github stats](https://github-readme-stats.vercel.app/api?username=reyeon1209&count_private=true&show_icons=true&theme=buefy&hide_border=true&include_all_commits=1)](https://github.com/reyeon1209/github-readme-stats)  
